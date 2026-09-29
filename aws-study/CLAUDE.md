@@ -133,8 +133,8 @@ Dựa trên PDF, đây là các sections đã hoàn thành và sắp tới:
 | 5 | Amazon VPC | ✅ Hoàn thành |
 | 6 | ECS, ECR & Fargate - Docker in AWS | ✅ Hoàn thành |
 | 7 | CloudFront, AWS Elastic Beanstalk | ✅ Hoàn thành |
-| 8 | AWS CloudFormation | 📋 Pending |
-| 9 | AWS Integration & Messaging: SQS, SNS & Kinesis | 📋 Pending |
+| 8 | AWS CloudFormation | ✅ Hoàn thành |
+| 9 | AWS Integration & Messaging: SQS, SNS & Kinesis | ✅ Hoàn thành |
 | 10 | AWS Monitoring, Troubleshooting & Audit | 📋 Pending |
 | 11 | AWS Lambda | 📋 Pending |
 | 12 | AWS DynamoDB | 📋 Pending |
